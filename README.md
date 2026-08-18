@@ -28,7 +28,7 @@ Electrical Engineering graduate building systems at the intersection of **AI, Co
 - **Languages:** Python, Java, JavaScript (ES6+), SQL, C/C++
 - **Graphics & Vision:** Three.js, MediaPipe, OpenCV
 - **Backend & APIs:** FastAPI, Uvicorn, WebSockets, RESTful APIs, HTTPX
-- **Engineering & Systems:** Power Systems, Electrical Drives, Mathematical Modeling, Git / GitHub
+- **Engineering & Systems:** MATLAB,TinkerCad, PLC, SCADA, Power Systems, Electrical Drives, Mathematical Modeling, Git / GitHub
 
 ---
 
