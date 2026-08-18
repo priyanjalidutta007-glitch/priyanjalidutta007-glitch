@@ -1,6 +1,6 @@
 # Hi, I'm Priyanjali 👋
 
-Electrical Engineering graduate building systems at the intersection of **AI, Computer Vision, Real-Time Telemetry, and Robotics**.
+Electrical Engineer building systems at the intersection of **AI, Computer Vision, Real-Time Telemetry, and Robotics**.
 
 ---
 
